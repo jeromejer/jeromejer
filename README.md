@@ -1,4 +1,4 @@
-<h2 align="center"> My stack ✏️</h2>
+<h2 align="center"> Мой стек ✏️</h2>
 
 
 
