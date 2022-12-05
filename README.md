@@ -1,7 +1,3 @@
-<h2 align="center"> Мой стек ✏️</h2>
-
-
-
 <p align="center">
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JS" height="35"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="React" height="35"> <img src="https://cdn.icon-icons.com/icons2/37/PNG/512/html_application_3021.png" alt="HTML" height="35"> <img src="https://cdn.icon-icons.com/icons2/37/PNG/512/css_3721.png" alt="CSS" height="35"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node" height="35"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VScode" height="35"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/js_webpack_logo_icon_167796.png" alt="Webpack" height="35"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_mongodb_icon_129879.png" alt="MongoDB" height="35"> <img src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png" alt="GitHub" height="35"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git" height="35"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/npm_old_icon_132179.png" alt="npm" height="35"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="Figma" height="35"> <img src="https://cdn.icon-icons.com/icons2/627/PNG/512/sql-document-outlined-interface-symbol_icon-icons.com_57504.png" alt="SQL" height="35"><p>
 
